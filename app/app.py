@@ -1,13 +1,6 @@
 import streamlit as st
 import pandas as pd
-import os
-import gzip
-import json
-import string
-import re
 import numpy as np
-import openpyxl
-import pyarrow
 import fastparquet
 import matplotlib.pyplot as plt
 import seaborn as sns
