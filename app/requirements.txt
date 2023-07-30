@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+nltk
+openpyxl
+pyarrow
+fastparquet
+matplotlib
+seaborn
+scikit-learn
+textblob
+plotly

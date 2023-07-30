@@ -6,7 +6,6 @@ import json
 import string
 import re
 import numpy as np
-import nltk
 import openpyxl
 import pyarrow
 import fastparquet
