@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import os
-from azure.storage.blob import BlobServiceClient
 import gzip
 import json
 import string
