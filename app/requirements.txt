@@ -9,5 +9,5 @@ matplotlib
 seaborn
 scikit-learn
 textblob
-plotly==4.14.3
+plotly
 fastparquet
